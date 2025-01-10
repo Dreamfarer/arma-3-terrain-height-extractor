@@ -1,0 +1,11 @@
+[package]
+name = "arma-3-terrain-height-extractor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+arma-rs = "1.11.11"
+
+[lib]
+name = "extractor_x64"
+crate-type = ["cdylib"]
