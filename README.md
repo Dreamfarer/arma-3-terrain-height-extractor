@@ -11,4 +11,4 @@ A dynamic link library (DLL) for extracting terrain height data from Arma 3, wri
 4. Open the Editor, place a player character, start the game, and copy the content from `extractor.sqf` into Arma's debug console (accessible from the pause menu). This will initiate the extraction process.
 
 ## Disclaimer
-This tool has been developed and tested exclusively on the 64-bit version of Arma 3 running on Windows 11.
+This tool has been developed and tested exclusively on the 64-bit version of Arma 3 running on Windows 11. Furthermore, for the [freeExtension](https://community.bistudio.com/wiki/freeExtension) scripting command to have any effect, you have to be in the [dev](https://dev.arma3.com/dev-branch) branch of Arma 3.
